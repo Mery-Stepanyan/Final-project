@@ -1,0 +1,68 @@
+:root { 
+  --main-text-color: #000000;
+}
+
+div.about_us_page {
+  width: 1920px;
+  height: 968px;
+  left: 0px;
+  top: 4645px;
+  background: rgba(183, 201, 213, 0.3);
+}
+
+div.about_us_page div.title {
+  width: 288px;
+  height: 67px;
+  left: 231px;
+  top: 120px;
+  font-size: 50px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+}
+
+div.about_us_page div.text{
+  width: 1282px;
+  height: 72px;
+  left: 231px;
+  top: 228px;
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--main-text-color);
+}
+
+div.about_us_page div.image {
+  width: 960px;
+  height: 623px;
+  left: 0px;
+  top: 345px;
+}
+
+div.about_us_page div.rectangle {
+  width: 960px;
+  height: 623px;
+  left: 960px;
+  top: 345px;
+  background: #FEC9CA; 
+}
+
+div.about_us_page div.rectangle div.subtitle{
+  width: 387.44px;
+  height: 67px;
+  left: 109px;
+  top: 78px;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+}
+
+div.about_us_page div.rectangle div.text{
+  width: 621px;
+  height: 363px;
+  left: 109px;
+  top: 186px;
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--main-text-color);
+}

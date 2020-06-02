@@ -1,0 +1,110 @@
+:root { 
+  --main-text-color: #000000;
+}
+
+div.testimonials-page {
+  width: 1920px;
+  height: 1010px;
+  left: -2px;
+  top: 1937px;
+  background: #415679;
+}
+ 
+div.testimonials-page div.title {
+  width: 418px;
+  height: 67px;
+  left: 234px;
+  top: 118px;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: #FEE542;
+  }
+
+div.testimonials-page div.text {
+  width: 1282px;
+  height: 96px;
+  left: 234px;
+  top: 226px;
+  font-size: 24px;
+  line-height: 48px;
+  color: #FFFFFF;
+  }
+
+div.testimonials-page div.rectangle1 {
+  width: 467px;
+  height: 614px;
+  left: 386px;
+  top: 354px;
+  background: #FEE542;
+  border-radius: 30px;
+}
+
+div.testimonials-page div.rectangle1 .image {
+  width: 265px;
+  height: 265px;
+  left: 115px;
+  top: 33px;
+  border: none;
+  }
+
+div.testimonials-page div.rectangle1 .name {
+  width: 277px;
+  height: 61px;
+  left: 95px;
+  top: 329px;
+  font-size: 26px;
+  line-height: 36px;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+  }
+
+div.testimonials-page div.rectangle1 .text {
+  width: 395px;
+  height: 192px;
+  left: 36px;
+  top: 390px;
+  font-size: 18px;
+  line-height: 48px;
+  text-align: center;
+  color: var(--main-text-color);
+}
+
+div.testimonials-page div.rectangle2 {
+  width: 467px;
+  height: 614px;
+  left: 1063px;
+  top: 354px;
+  background: #FEE542;
+  border-radius: 30px;
+}
+
+div.testimonials-page div.rectangle2 .image {
+  width: 265px;
+  height: 265px;
+  left: 120px;
+  top: 33px;
+  border: none;
+ }
+
+div.testimonials-page div.rectangle2 .name {
+  width: 277px;
+  height: 61px;
+  left: 95px;
+  top: 329px;
+  font-size: 26px;
+  line-height: 36px;
+  text-transform: uppercase;
+  color: var(--main-text-color);
+}
+
+div.testimonials-page div.rectangle2 .text {
+  width: 395px;
+  height: 192px;
+  left: 36px;
+  top: 390px;
+  font-size: 18px;
+  line-height: 48px;
+  text-align: center;
+  color: var(--main-text-color);
+}

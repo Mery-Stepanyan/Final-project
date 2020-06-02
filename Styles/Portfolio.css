@@ -1,0 +1,82 @@
+:root { 
+  --text-color: #000000;
+}
+
+div.portfolio-page {
+  width: 1920px;
+  height: 896px;
+  left: 0px;
+  top: 1041px;
+  background: rgba(183, 201, 213, 0.3);
+}
+
+div.portfolio-page .title{
+  width: 354px;
+  height: 65px;
+  left: 246px;
+  top: 106px;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: #333333
+}
+
+div.portfolio-page div.text1 {
+  position: absolute;
+  width: 1282px;
+  height: 66.64px;
+  left: 246px;
+  top: 212px;
+  font-size: 24px;
+  line-height: 36px;
+  color: #333333;
+}
+
+div.portfolio-page div.make-up-image {
+  width: 975px;
+  height: 576.66px;
+  left: 0px;
+  top: 319.34px;
+}
+
+div.portfolio-page div.text-loremIspum {
+  width: 459px;
+  height: 64.79px;
+  left: 1069px;
+  top: 397.09px;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+div.portfolio-page div.text2 {
+  width: 621px;
+  height: 233.26px;
+  left: 1069px;
+  top: 497.06px;
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--text-color);
+}
+
+div.portfolio-page div.button {
+  width: 300px;
+  height: 70px;
+  left: 1069px;
+  top: 763.64px;
+  background: #FEE542;
+  border-radius: 10px;
+}
+
+div.portfolio-page div.button div.text  {
+  width: 90.94px;
+  height: 24.5px;
+  left: 105px;
+  top: 23.33px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  color: #415679;
+}

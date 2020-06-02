@@ -1,0 +1,86 @@
+:root { 
+  --main-texts-color:  #FFFFFF;
+}
+
+div.supporters-page {
+  width: 1920px;
+  height: 731px;
+  left: 0px;
+  top: 3915px;
+  background: #415679;
+}
+
+div.supporters-page div.title {
+  left: 12.08%;
+  right: 68.18%;
+  top: 16.96%;
+  bottom: 72.82%;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+  color: var(--main-texts-color);
+}
+
+div.supporters-page div.text{
+  left: 12.08%;
+  right: 21.15%;
+  top: 32.72%;
+  bottom: 56.77%;
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--main-texts-color);
+}
+
+div.supporters-page div.image-ISTC {
+  width: 109.9px; 
+  height: 67.3px; 
+  left: 262px;
+  top: 608px;
+}
+
+div.supporters-page div.image-EIF {
+  width: 209.6px; 
+  height: 65.9px;
+  left: 413.6px;
+  top: 609.4px;
+}
+
+div.supporters-page div.image-AITC {
+  width: 204.51px; 
+  height: 81.18px;
+  left: 653.49px;
+  top: 604.1px;
+} 
+
+div.supporters-page div.image-ANIL-SDG {
+  width: 239.6px; 
+  height: 67.5px;
+  left: 903.9px;
+  top: 607.9px; 
+}
+
+div.supporters-page div.image-UNICEF {
+  width: 332.3px; 
+  height: 73.8px;
+  left: 1178.6px;
+  top: 599.5px;
+}
+
+div.supporters-page div.image-ImpactAim {
+  width: 267px; 
+  height: 157.9px;
+  left: 1088.4px;
+  top: 389.4px;
+}
+
+div.supporters-page div.image-UNDP {
+  width: 103.7px; 
+  height: 240.5px;
+  left: 1407.9px;
+  top: 301px;
+}
+
+
+
+
+

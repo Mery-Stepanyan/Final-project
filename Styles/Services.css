@@ -1,0 +1,62 @@
+:root { 
+    --main-text-color:  #000000;
+}
+
+div.services-page {
+    width: 1920px;
+    height: 968px;
+    left: -2px;
+    top: 2947px;
+    background: rgba(183, 201, 213, 0.3);
+}
+
+div.services-page div.title {
+    width: 272px;
+    height: 67px;
+    left: 232px;
+    top: 132px;
+    font-size: 60px;
+    line-height: 67px;
+    text-transform: uppercase;
+    color: var(--main-text-color);
+}
+
+div.services-page div.text1 {
+    width: 1282px;
+    height: 72px;
+    left: 232px;
+    top: 240px;
+    font-size: 24px;
+    line-height: 36px;
+    color: var(--main-text-color);
+}
+
+div.services-page div.subtitle {
+    width: 619px;
+    height: 134px;
+    left: 232px;
+    top: 467px;
+    font-size: 60px;
+    line-height: 67px;
+    text-transform: uppercase;
+    color: var(--main-text-color);
+}
+
+div.services-page div.text2 {
+    width: 619px;
+    height: 216px;
+    left: 232px;
+    top: 659px;
+    font-size: 24px;
+    line-height: 36px;
+    color: var(--main-text-color);
+}
+
+div.services-page div.image {
+width: 975px;
+height: 623px;
+left: 945px;
+top: 345px;
+border: none;
+}
+

@@ -1,0 +1,124 @@
+:root { 
+    --main-textf-color: #FFFFFF;
+  }
+
+div.footer {
+    width: 1919px;
+    height: 409px;
+    left: 0px;
+    top: 6498px;
+    background: #415679;
+}
+div.footer div.footerPortfolio div.title {
+    width: 93px;
+    height: 28px;
+    left: 352px;
+    top: 96px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.footerTestimonials div.title {
+    width: 138px;
+    height: 28px;
+    left: 513px;
+    top: 96px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.footerServices div.title {
+    width: 91px;
+    height: 28px;
+    left: 728px;
+    top: 96px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.logoAcc {
+    width: 81px;
+    height: 74px;
+    left: 920px;
+    top: 81px;
+    border: none;
+}
+
+div.footer div.footerSupporters div.title {
+    width: 118px;
+    height: 28px;
+    left: 1094px;
+    top: 102px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.footerAboutUs div.title {
+    width: 96px;
+    height: 28px;
+    left: 1282px;
+    top: 102px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.footerContactUs div.title {
+    width: 116px;
+    height: 28px;
+    left: 1448px;
+    top: 102px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--main-textf-color);
+}
+
+div.footer div.vector {
+    width: 1454.5px;
+    left: 233px;
+    top: 174px;
+    border: 1px solid #999999;
+}
+
+div.footer div.logoFacebook {
+    width: 46px;
+    height: 46px;
+    left: 820px;
+    top: 211px;
+   
+}
+div.footer div.logoTwitter {
+    width: 46px;
+    height: 47.18.px;
+    left: 897px;
+    top: 210px;
+
+}
+div.footer div.logoInstagram {
+    width: 46px;
+    height: 46px;
+    left: 974px;
+    top: 210px;
+} 
+
+div.footer div.logoYoutube {
+    width: 46px;
+    height: 46px;
+    left: 1052px;
+    top: 211px;
+}

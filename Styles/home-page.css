@@ -1,0 +1,62 @@
+* { 
+    margin: 0; padding: 0;
+    position: absolute;
+    font-family: Philosopher;
+    font-style: normal;
+    font-weight: bold;
+}
+  
+div.home-page {
+    position: absolute;
+    color: #FFFFFF;
+}
+
+div.home-page div.image {
+    width: 1920px;
+    height: 1041px;
+    top: 0px;
+    border: 1px solid #FEC9CA;
+    box-sizing: border-box;
+}
+
+div.home-page .title-text {
+    width: 435.85px;
+    height: 102.33px;
+    left: 120.87px;
+    top: 292px;
+    font-size: 60px;
+    line-height: 67px;
+    text-transform: uppercase;
+    color: rgb(255, 236, 94);
+}
+      
+div.home-page div.text {
+    width: 917.04px;
+    height: 157.89px;
+    left: 120.87px;
+    top: 450.89px;
+    font-size: 36px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+div.home-page div.buttonAboutUs {
+    width: 299.69px;
+    height: 70px;
+    left: 120.87px;
+    top: 660px;
+    background: #FEE950;
+    border-radius: 10px;
+}
+div.home-page div.buttonAboutUs div.about-us  {
+    width: 93.81px;
+    height: 29.85px;
+    left: 102.6px;
+    top: 20.42px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    color: #415679;
+ }
+

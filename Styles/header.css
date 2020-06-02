@@ -1,0 +1,77 @@
+:root { 
+    --main-texth-color: #FFFFFF;
+  }
+
+div.header {
+    width: 1920px;
+    height: 130px;
+    left: 0px;
+    top: 0px;
+    font-size: 24px;
+    line-height: 27px;
+    background: #415679;
+}
+
+div.header div.logoACC5 {
+    width: 147px;
+    height: 130px;
+    top: 0px;
+    left: 119px;
+}
+
+div.header div.home div.title {
+    width: 67px;
+    height: 40px;
+    left: 683px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.portfolio div.title {
+    width: 95px;
+    height: 40px;
+    left: 822px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.testimonials div.title {
+    width: 142px;
+    height: 40px;
+    left: 989px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.services div.title {
+    width: 94px;
+    height: 40px;
+    left: 1203px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.supporters div.title {
+    width: 121px;
+    height: 40px;
+    left: 1369px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.about-us div.title {
+    width: 99px;
+    height: 40px;
+    left: 1562px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
+
+div.header div.contact-us div.title {
+    position: absolute;
+    width: 119px;
+    height: 40px;
+    left: 1733px;
+    top: 52px;
+    color: var(--main-texth-color);
+}
